@@ -57,11 +57,3 @@ This Unity Editor tool helps you identify and manage unused directories in your 
 ## License
 
 This project is open-source and available under the MIT License.
-
-## Contributing
-
-If you'd like to contribute to the project, feel free to fork the repository, create a branch, and submit a pull request. Any improvements, bug fixes, or feature requests are welcome!
-
-## Acknowledgements
-
-- Unity Editor API for providing tools to manage assets and scenes.
