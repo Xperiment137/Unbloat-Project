@@ -38,9 +38,9 @@ This Unity Editor tool helps you identify and manage unused directories in your 
 
 ## Screenshot
 
-![Unbloat Project Tool Screenshot](assets/images/unbloat.png)
+![Unbloat Project Tool Screenshot](assets/images/unbloat.PNG)
 
-![Unbloat Project Tool Screenshot](assets/images/unbloat2.png)
+![Unbloat Project Tool Screenshot](assets/images/unbloat2.PNG)
 
 
 ## Requirements
